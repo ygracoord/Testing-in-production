@@ -1,0 +1,69 @@
+---
+- summary: Проверка успешной регистрации нового пользователя
+  status: pass
+
+- summary: Проверка входа пользователя в систему
+  status: pass
+
+- summary: Проверка входа пользователя в систему с использованием Github
+  status: pass
+
+- summary: Проверка входа пользователя в систему c неверными данными
+  status: pass
+
+- summary: Проверка возможности сыграть простой бой
+  status: pass
+
+- summary: Проверка создания игры
+  status: pass
+
+- summary: Настройка конфигурации игры
+  status: pass
+
+- summary: Присоединение к уже созданной игре
+  status: pass
+
+- summary: Отправка сообщения в чат
+  status: pass
+
+- summary: Выбор ЯП для решения задачи
+  status: pass
+
+- summary: Проверка сброса решения
+  status: pass
+
+- summary: Проверка возможности наблюдения за игрой как зритель
+  status: pass
+
+- summary: Проверка успешного завершения игры
+  status: pass
+
+- summary: Проверка возможности сдаться в поединке
+  status: pass
+
+- summary: Проверка возможности сдаться в поединке
+  status: pass
+
+- summary: Проверка создания турнира
+  status: pass
+
+- summary: Проверка возможности принимать участие в турнире
+  status: pass
+
+- summary: Просмотр истории поединков с воспроизведением
+  status: pass
+
+- summary: Проверка смены языка в описании задачи
+  status: pass
+
+- summary: Просмотр информации о другом пользователе
+  status: pass
+
+- summary: Просмотр рейтинга игроков
+  status: pass
+
+- summary: Навигация по страницам
+  status: pass
+
+- summary: Проверка отображения сайта на мобильном устройстве
+  status: fail
