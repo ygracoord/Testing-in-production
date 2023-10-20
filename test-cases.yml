@@ -230,7 +230,7 @@
   test-data: Нет
   steps:
     - Перейти на вкладку "TOURNAMENTS"
-    - Перейти по ссылке "You may want to create one"
+    - Перейти по ссылке "Tournaments Info"
     - Если необходимо, установить параметры турнира
     - Нажать на кнопку "Create"
   expected-result: |
