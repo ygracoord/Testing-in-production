@@ -2,6 +2,12 @@
 
 [![Actions Status](https://github.com/ygracoord/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ygracoord/qa-engineer-project-85/actions)
 
+Tools used:
+
+![Static Badge](https://img.shields.io/badge/DevTools-blue)
+![Static Badge](https://img.shields.io/badge/Postman-orange)
+![Static Badge](https://img.shields.io/badge/Test%20design-green)
+
 <h1 align="center">Testing Codebattle</h1>
 <h4 align="center" style="font-style: italic">by Hexlet</h4>
 
