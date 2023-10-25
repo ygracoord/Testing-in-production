@@ -17,13 +17,19 @@
 - summary: Проверка создания игры
   status: pass
 
+- summary: Проверка создания игры против друга
+  status: pass
+
 - summary: Настройка конфигурации игры
   status: pass
 
-- summary: Присоединение к уже созданной игре
+- summary: Присоединение к уже созданной игре в роли участника
   status: pass
 
 - summary: Отправка сообщения в чат
+  status: pass
+
+- summary: Отправка личного сообщения
   status: pass
 
 - summary: Выбор ЯП для решения задачи
