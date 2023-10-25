@@ -72,4 +72,4 @@
   status: pass
 
 - summary: Проверка отображения сайта на мобильном устройстве
-  status: fail
+  status: pass
